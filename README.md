@@ -19,6 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: ___SQL Injection (SQLi)_______________
+<img src="https://github.com/kunal519/codepathweek8/blob/master/sqlattack.gif" alt="sqlattack" title="sqlattack" />
 
 Vulnerability #2: _____Session Hijacking/Fixation_____________
 
