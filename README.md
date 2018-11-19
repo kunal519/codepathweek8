@@ -31,7 +31,6 @@ Vulnerability #1: ______Username Enumeration____________
 <img src="https://github.com/kunal519/codepathweek8/blob/master/user.gif" alt="user" title="user" />
 
 Vulnerability #2: ________Cross-Site Scripting (XSS)__________
-<img src="https://github.com/kunal519/codepathweek8/blob/master/xss.gif" alt="xss" title="xss" />
 
 
 ## Red
